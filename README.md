@@ -1,5 +1,5 @@
 
-````
+
 ##👋 Hi, I'm Hamza Belli
 * Cybersecurity Expert | iCloud Bypass Researcher | Full Stack Web & C# Developer</h3>
 
@@ -11,9 +11,9 @@
 
 ## 🧠 About Me
 
-```txt
+
 I break things to understand how they work — and then I help fix them.
-````
+
 
 I'm a cybersecurity researcher with deep focus on finding server, web, and Apple device exploits. I specialize in:
 

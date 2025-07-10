@@ -1,11 +1,11 @@
 
 ````
-<h1 align="center">👋 Hi, I'm Hamza Belli</h1>
-<h3 align="center">Cybersecurity Expert | iCloud Bypass Researcher | Full Stack Web & C# Developer</h3>
+##👋 Hi, I'm Hamza Belli
+* Cybersecurity Expert | iCloud Bypass Researcher | Full Stack Web & C# Developer</h3>
 
-<p align="center">
-  🇩🇿 Based in Algeria • 🛡️ Ethical Hacker • 🍏 iOS Tinkerer
-</p>
+
+*  🇩🇿 Based in Algeria • 🛡️ Ethical Hacker • 🍏 iOS Tinkerer
+
 
 ---
 
